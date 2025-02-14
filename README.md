@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p>
+I'm Kota Matsuhashi. I am a senior undergraduate student in the School of Engineering at Tohoku University, majoring in Fluid Mechanics.<br>
+🌱 I’m currently learning Computational Fluid Dynamics(CFD)<br>
+⚡ Keywords: CFD, Combustion, Rocket...
+</p>
 
 <p align="left">
   <a href="https://github.com/kota-matsuhashi">
